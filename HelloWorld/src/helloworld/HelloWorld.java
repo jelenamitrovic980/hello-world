@@ -7,7 +7,7 @@ package helloworld;
 
 /**
  *
- * @author A31542R4PN
+ * @author Jelena Mitrovic
  */
 public class HelloWorld {
 
